@@ -8,9 +8,8 @@ Users can browse menu items, apply category filters, manage cart items, and view
 - Filter items by type: Breakfast, Soup, Pasta, Main Course, Pizza, Burger
 - Add to cart with toaster notifications
 - View cart with item details
-- Increase / decrease quantity or remove items
+- Increase / decrease quantity or remove items in cart
 - Order summary with subtotal, delivery fee, taxes, and grand total
-- Place order (cart resets after order confirmation)
 
 ## 🛠 Tech Stack
 - **React** (Frontend)
